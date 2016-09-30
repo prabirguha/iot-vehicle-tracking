@@ -8,11 +8,9 @@ import java.net.URL;
 public class ReadWebPage {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
-		String urlText = "http://www.hortonworks.com";
-=======
+
 		String urlText = "http://www.google.com";
->>>>>>> refs/remotes/origin/master
+
 		BufferedReader in = null;
 		try {
 			URL url = new URL(urlText);
