@@ -8,7 +8,7 @@ import java.net.URL;
 public class ReadWebPage {
 
 	public static void main(String[] args) {
-		String urlText = "http://www.google.com";
+		String urlText = "http://www.hortonworks.com";
 		BufferedReader in = null;
 		try {
 			URL url = new URL(urlText);
