@@ -9,7 +9,7 @@ public class ReadWebPage {
 
 	public static void main(String[] args) {
 
-		String urlText = "http://www.google.com";
+		String urlText = "http://www.ebay.com";
 
 		BufferedReader in = null;
 		try {
